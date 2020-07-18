@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **open-source online game**
 
-- 👨‍💻 My personal site <a href="pawelvlodarczyk.pl">pawelvlodarczyk.pl</a>
+- 👨‍💻 My personal site <b>pawelvlodarczyk.pl</b>
 
 - 💬 Ask me about **Python**
 
