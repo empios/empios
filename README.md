@@ -8,8 +8,6 @@
 
 - 👯 I’m looking to collaborate on **open-source online game**
 
-- 👨‍💻 My personal site <b>pawelvlodarczyk.pl</b>
-
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **pawelwlodarczyk97@yahoo.com**
