@@ -1,7 +1,7 @@
 ### 💻console.log('I am Paweł')
 I am a fullstack software engineer from Poland - 🔭 Working on multiple frontend and backend project using React, Vue, Laravel and NodeJS
 - 🌱 Learning design patterns in depth
-- 🎓 Graduaded Bachelor of Engineering of Computer Science
+- 🎓 Graduaded Master of Engineering of Computer Science
 
 <br>
 
