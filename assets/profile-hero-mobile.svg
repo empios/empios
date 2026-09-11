@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="950" viewBox="0 0 640 950" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Paweł — Fullstack Developer and AI/ML Engineer</title>
+<desc id="desc">From idea. To intelligence. Over eight years of software engineering experience. React, Python, and TypeScript.</desc>
+<defs>
+    <linearGradient id="surface" x1="120" y1="0" x2="1100" y2="730" gradientUnits="userSpaceOnUse"><stop stop-color="#11131D"/><stop offset=".55" stop-color="#080A10"/><stop offset="1" stop-color="#101323"/></linearGradient>
+    <radialGradient id="ambient"><stop stop-color="#6460FF" stop-opacity=".22"/><stop offset="1" stop-color="#6460FF" stop-opacity="0"/></radialGradient>
+    <linearGradient id="headline" x1="72" y1="250" x2="830" y2="330" gradientUnits="userSpaceOnUse"><stop stop-color="#A5D7FF"/><stop offset=".45" stop-color="#B2AAFF"/><stop offset="1" stop-color="#E9B7EE"/></linearGradient>
+    <radialGradient id="orb" cx=".32" cy=".24" r=".84"><stop stop-color="#D3F1FF"/><stop offset=".19" stop-color="#8FAAFE"/><stop offset=".42" stop-color="#7163CC"/><stop offset=".67" stop-color="#302958"/><stop offset=".86" stop-color="#131526"/><stop offset="1" stop-color="#080A12"/></radialGradient>
+    <linearGradient id="rim" x1="850" y1="130" x2="1120" y2="430" gradientUnits="userSpaceOnUse"><stop stop-color="#E0F5FF" stop-opacity=".8"/><stop offset=".45" stop-color="#A7ADFF" stop-opacity=".18"/><stop offset="1" stop-color="#D7A7F6" stop-opacity=".5"/></linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#FFFFFF" stop-opacity=".065"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".025"/></linearGradient>
+    <filter id="glow" x="-75%" y="-75%" width="250%" height="250%"><feGaussianBlur stdDeviation="28"/></filter>
+    <clipPath id="clip"><rect width="640" height="950" rx="28"/></clipPath>
+  </defs>
+<g clip-path="url(#clip)">
+<rect width="640" height="950" rx="28" fill="url(#surface)"/>
+<ellipse cx="540" cy="280" rx="320" ry="330" fill="url(#ambient)"/>
+<circle cx="556" cy="280" r="110" fill="url(#orb)" opacity=".3"/>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<text x="40" y="64" fill="#F5F5F7" font-size="25" font-weight="650" letter-spacing="3">PAWEŁ</text>
+<text x="600" y="63" text-anchor="end" fill="#A6A8BA" font-size="20">8+ YEARS OF BUILDING</text>
+<path d="M40 92H600" stroke="#FFFFFF" stroke-opacity=".1"/>
+<text x="40" y="185" fill="#F5F5F7" font-size="78" font-weight="700" letter-spacing="-4">From idea.</text>
+<text x="40" y="277" fill="url(#headline)" font-size="78" font-weight="700" letter-spacing="-4">To intelligence.</text>
+<text x="42" y="335" fill="#AAACBC" font-size="28">Fullstack Developer</text>
+<text x="42" y="374" fill="#AAACBC" font-size="28">&amp; AI/ML Engineer</text>
+<path d="M40 423H600" stroke="#FFFFFF" stroke-opacity=".1"/>
+<text x="42" y="467" fill="#A1A5B6" font-size="21" letter-spacing="3">THE CORE STACK</text>
+<g transform="translate(40 497)"><rect width="560" height="121" rx="20" fill="url(#card)" stroke="#FFFFFF" stroke-opacity=".09"/><circle cx="30" cy="37" r="5" fill="#79D8F5"/><text x="49" y="49" fill="#F5F5F7" font-size="36" font-weight="600" letter-spacing="-1">React</text><text x="28" y="90" fill="#B0B4C5" font-size="26">Interfaces that feel right.</text></g>
+<g transform="translate(40 636)"><rect width="560" height="121" rx="20" fill="url(#card)" stroke="#FFFFFF" stroke-opacity=".09"/><circle cx="30" cy="37" r="5" fill="#B5A2FF"/><text x="49" y="49" fill="#F5F5F7" font-size="36" font-weight="600" letter-spacing="-1">Python</text><text x="28" y="90" fill="#B0B4C5" font-size="26">Backends. AI. Machine learning.</text></g>
+<g transform="translate(40 775)"><rect width="560" height="121" rx="20" fill="url(#card)" stroke="#FFFFFF" stroke-opacity=".09"/><circle cx="30" cy="37" r="5" fill="#82AEFF"/><text x="49" y="49" fill="#F5F5F7" font-size="36" font-weight="600" letter-spacing="-1">TypeScript</text><text x="28" y="90" fill="#B0B4C5" font-size="26">Clarity across the stack.</text></g>
+</g>
+<rect x=".5" y=".5" width="639" height="949" rx="27.5" stroke="#FFFFFF" stroke-opacity=".08"/>
+</g></svg>

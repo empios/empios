@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="730" viewBox="0 0 1200 730" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Paweł — Fullstack Developer and AI/ML Engineer</title>
+  <desc id="desc">From idea. To intelligence. Over eight years of software engineering experience. React, Python, and TypeScript.</desc>
+  <defs>
+    <linearGradient id="surface" x1="120" y1="0" x2="1100" y2="730" gradientUnits="userSpaceOnUse"><stop stop-color="#11131D"/><stop offset=".55" stop-color="#080A10"/><stop offset="1" stop-color="#101323"/></linearGradient>
+    <radialGradient id="ambient"><stop stop-color="#6460FF" stop-opacity=".22"/><stop offset="1" stop-color="#6460FF" stop-opacity="0"/></radialGradient>
+    <linearGradient id="headline" x1="72" y1="250" x2="830" y2="330" gradientUnits="userSpaceOnUse"><stop stop-color="#A5D7FF"/><stop offset=".45" stop-color="#B2AAFF"/><stop offset="1" stop-color="#E9B7EE"/></linearGradient>
+    <radialGradient id="orb" cx=".32" cy=".24" r=".84"><stop stop-color="#D3F1FF"/><stop offset=".19" stop-color="#8FAAFE"/><stop offset=".42" stop-color="#7163CC"/><stop offset=".67" stop-color="#302958"/><stop offset=".86" stop-color="#131526"/><stop offset="1" stop-color="#080A12"/></radialGradient>
+    <linearGradient id="rim" x1="850" y1="130" x2="1120" y2="430" gradientUnits="userSpaceOnUse"><stop stop-color="#E0F5FF" stop-opacity=".8"/><stop offset=".45" stop-color="#A7ADFF" stop-opacity=".18"/><stop offset="1" stop-color="#D7A7F6" stop-opacity=".5"/></linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#FFFFFF" stop-opacity=".065"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".025"/></linearGradient>
+    <filter id="glow" x="-75%" y="-75%" width="250%" height="250%"><feGaussianBlur stdDeviation="28"/></filter>
+    <clipPath id="clip"><rect width="1200" height="730" rx="28"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="730" rx="28" fill="url(#surface)"/>
+    <ellipse cx="998" cy="285" rx="420" ry="360" fill="url(#ambient)"/>
+    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+      <text x="64" y="66" fill="#F5F5F7" font-size="23" font-weight="650" letter-spacing="4">PAWEŁ</text>
+      <text x="1136" y="64" text-anchor="end" fill="#A6A8BA" font-size="18" letter-spacing="1">8+ YEARS OF BUILDING</text>
+      <path d="M64 97H1136" stroke="#FFFFFF" stroke-opacity=".1"/>
+      <circle cx="1004" cy="282" r="133" fill="#7772FF" opacity=".17" filter="url(#glow)"/>
+      <circle cx="1004" cy="277" r="126" fill="url(#orb)" stroke="url(#rim)" stroke-width="1.5"/>
+      <ellipse cx="982" cy="229" rx="79" ry="37" transform="rotate(-32 982 229)" stroke="#E8EDFF" stroke-opacity=".15"/>
+      <ellipse cx="1004" cy="277" rx="126" ry="56" transform="rotate(-32 1004 277)" stroke="#D1D7FF" stroke-opacity=".18"/>
+      <ellipse cx="1025" cy="319" rx="79" ry="37" transform="rotate(-32 1025 319)" stroke="#C7ACFF" stroke-opacity=".14"/>
+      <text x="64" y="218" fill="#F5F5F7" font-size="101" font-weight="700" letter-spacing="-5">From idea.</text>
+      <text x="64" y="328" fill="url(#headline)" font-size="101" font-weight="700" letter-spacing="-5">To intelligence.</text>
+      <text x="68" y="387" fill="#AAACBC" font-size="27" letter-spacing="-.4">Fullstack Developer &amp; AI/ML Engineer</text>
+      <path d="M64 449H1136" stroke="#FFFFFF" stroke-opacity=".1"/>
+      <text x="66" y="493" fill="#9295A9" font-size="16" letter-spacing="3">THE CORE STACK</text>
+      <g transform="translate(64 522)">
+        <rect width="344" height="144" rx="20" fill="url(#card)" stroke="#FFFFFF" stroke-opacity=".09"/>
+        <circle cx="38" cy="37" r="5" fill="#79D8F5"/>
+        <text x="28" y="86" fill="#F5F5F7" font-size="37" font-weight="600" letter-spacing="-1">React</text>
+        <text x="28" y="117" fill="#A1A5B6" font-size="19">Interfaces that feel right.</text>
+      </g>
+      <g transform="translate(428 522)">
+        <rect width="344" height="144" rx="20" fill="url(#card)" stroke="#FFFFFF" stroke-opacity=".09"/>
+        <circle cx="38" cy="37" r="5" fill="#B5A2FF"/>
+        <text x="28" y="86" fill="#F5F5F7" font-size="37" font-weight="600" letter-spacing="-1">Python</text>
+        <text x="28" y="117" fill="#A1A5B6" font-size="19">Backends. AI. Machine learning.</text>
+      </g>
+      <g transform="translate(792 522)">
+        <rect width="344" height="144" rx="20" fill="url(#card)" stroke="#FFFFFF" stroke-opacity=".09"/>
+        <circle cx="38" cy="37" r="5" fill="#82AEFF"/>
+        <text x="28" y="86" fill="#F5F5F7" font-size="37" font-weight="600" letter-spacing="-1">TypeScript</text>
+        <text x="28" y="117" fill="#A1A5B6" font-size="19">Clarity across the stack.</text>
+      </g>
+    </g>
+    <rect x=".5" y=".5" width="1199" height="729" rx="27.5" stroke="#FFFFFF" stroke-opacity=".08"/>
+  </g>
+</svg>
